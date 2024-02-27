@@ -1,0 +1,83 @@
+{
+    "info": {
+        "id": "10829",
+        "name": "California Burrito",
+        "cloudinaryImageId": "ce6mlqcqsxdyqpbpa96y",
+        "locality": "EcoWorld",
+        "areaName": "Bellandur",
+        "costForTwo": "₹250 for two",
+        "cuisines": [
+            "Mexican",
+            "American",
+            "Salads",
+            "Continental",
+            "Keto",
+            "Healthy Food"
+        ],
+        "avgRating": 4.6,
+        "parentId": "1252",
+        "avgRatingString": "4.6",
+        "totalRatingsString": "10K+",
+        "sla": {
+            "deliveryTime": 30,
+            "lastMileTravel": 3,
+            "serviceability": "SERVICEABLE",
+            "slaString": "25-30 mins",
+            "lastMileTravelString": "3.0 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2024-02-25 23:00:00",
+            "opened": true
+        },
+        "badges": {
+            "textExtendedBadges": [
+                {
+                    "iconId": "guiltfree/GF_Logo_android_3x",
+                    "shortDescription": "options available",
+                    "fontColor": "#7E808C"
+                }
+            ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "description": "",
+                                "fontColor": "#7E808C",
+                                "iconId": "guiltfree/GF_Logo_android_3x",
+                                "shortDescription": "options available"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "40% OFF",
+            "subHeader": "UPTO ₹80"
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {},
+    "cta": {
+        "link": "https://www.swiggy.com/restaurants/california-burrito-ecoworld-bellandur-bangalore-10829",
+        "type": "WEBLINK"
+    }
+}

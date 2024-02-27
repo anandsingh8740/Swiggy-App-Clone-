@@ -6,34 +6,11 @@
     <link rel="stylesheet" href="./index.css" />
     <title>Namaste React</title>
 </head>
-<body> 
-    
-    <div id="root">  
+<body>
+    <div id="root" class="root">  
         <h1>Anand is here!</h1>
     </div>
-   
 
-    <!--this is all file of react,this is core file of react -->
-        <script 
-            crossorigin src="https://unpkg.com/react@18/umd/react.development.js"  
-        ></script>
-         
-        <!-- This is the react libarary which is usefull for DOM operation, which be need modifying DOM -->
-        <script 
-          crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"
-        ></script>
-    
-        <script src="./App.js"></script>
-
-        <!-- how we can create h1 tag inside React, cre  ate element takes three arguments
-        <script> 
-        const heading = React.createElement("h1", {}, "Hello World from React!");
-
-        const root = ReactDOM.createRoot(document.getElementById("root"));  // we have created a root for a react libarary
-
-        root.render(heading);
-        </script> -->
-   
-    
+    <script type="module" src="./src/App.js"></script>
 </body>
 </html>
